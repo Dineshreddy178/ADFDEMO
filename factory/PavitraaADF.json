@@ -1,0 +1,15 @@
+{
+	"name": "PavitraaADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9e25613-7b4f-4c41-ae44-a757dc5eed50",
+		"tenantId": "591f2431-756c-49f1-a90b-c6a0648772d7"
+	}
+}
